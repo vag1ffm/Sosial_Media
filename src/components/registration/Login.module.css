@@ -1,0 +1,12 @@
+.left {
+    height: 100vh;
+    width: 50%;
+    min-width: 500px;
+    background-color: red;
+}
+.right {
+    height: 100vh;
+    width: 50%;
+    min-width: 500px;
+    background-image: url("https://gas-kvas.com/uploads/posts/2023-01/1674367841_gas-kvas-com-p-risunki-3d-abstraktsii-10.jpg");
+}

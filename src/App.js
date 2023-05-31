@@ -1,9 +1,10 @@
 import './App.css';
+import Urls from "./components/urls";
 
 function App() {
   return (
     <div className="App">
-    фффф
+        <Urls/>
     </div>
   );
 }
